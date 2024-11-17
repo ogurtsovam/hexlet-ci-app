@@ -1,3 +1,4 @@
+[![Makefile Actions](https://github.com/ogurtsovam/hexlet-ci-app/actions/workflows/setUpTestLint.yml/badge.svg)](https://github.com/ogurtsovam/hexlet-ci-app/actions/workflows/setUpTestLint.yml)
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
